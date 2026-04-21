@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Wiggiam & Company",
   description: "wiggiam website",
+  head: [
+    ['link', { rel: 'icon', href: '/catto.png' }]
+  ],
   themeConfig: {
     logo: '/catto.png',
 
