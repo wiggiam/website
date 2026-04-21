@@ -17,7 +17,7 @@ everything from HMWK booklet answers, to every textbook pdf.
 - [AS-Level](/Stats&Mechanics-AS-Level.pdf)
 - [AS-Level Practice Booklet](/AS-Level-Practice-Book.pdf)
 - [A-Level](/Stats&Mechanics-A-Level.pdf)
-- [Edexcel Large Data Set (doesn't work •_•)](/EdexcelLargeDataSet.xls)
+- [Edexcel Large Data Set (doesn't work •_•)](/)
 
 ## HMWK booklet & answers
 
