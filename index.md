@@ -22,12 +22,16 @@ features:
     details: play the collective of games from sam's spreadsheet •o•
     link: /spreadsheet-stuff
   - title: docs
-    details: check out documents for maths (& further) •ᴗ•
+    details: check out documents for maths (& further maths) •ᴗ•
     link: /maths-docs
   - title: sam's spreadsheet
-    details: see everything on the original spreadsheet.
+    details: see everything on the original spreadsheet ✅
     link: https://docs.google.com/spreadsheets/d/1pYJNs5nqpm5NzlPcsFWzqeW06sARKdtoWj4XZcQ2rmM/edit?gid=0#gid=0
 ---
+
+::: info wiggiam says:
+😛
+:::
 
 <img src="/background.png" alt="wiggiam" class="bottom-image" />
 
