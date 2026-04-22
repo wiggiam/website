@@ -34,13 +34,3 @@ features:
 :::
 
 <img src="/background.png" alt="wiggiam" class="bottom-image" />
-
-<style>
-.bottom-image {
-  display: block;
-  margin: 40px auto;
-  width: 1000px;
-}
-</style>
-
-

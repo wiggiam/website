@@ -121,3 +121,10 @@
 .VPFooter {
   display: block !important;
 }
+
+/* bottom image on home page */
+.bottom-image {
+  display: block;
+  margin: 40px auto;
+  width: 1000px;
+}
