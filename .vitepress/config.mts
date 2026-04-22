@@ -11,7 +11,7 @@ export default defineConfig({
 
     nav: [
       { text: 'home', link: '/' },
-      { text: 'games', link: '/spreadsheet-stuff' },
+      { text: 'games', link: '/games-and-more' },
       { text: 'docs', link: '/maths-docs' },
       { text: 'about', link: '/site-info' },
     ],

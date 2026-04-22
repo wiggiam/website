@@ -20,7 +20,7 @@ hero:
 features:
   - title: games
     details: play the collective of games from sam's spreadsheet •o•
-    link: /spreadsheet-stuff
+    link: /games-and-more
   - title: docs
     details: check out documents for maths (& further maths) •ᴗ•
     link: /maths-docs
