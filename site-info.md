@@ -2,11 +2,6 @@
 
 hi! since you've pressed "about", or "about this site", you're probably curious about this site in general. so, let me explain:
 
-
-## why did I make it?
-
-I kinda just wanted my own website lol.
-
 ## how did I make it?
 
 basically, this site was made with **VitePress** (if you're not sure what that is, look it up), and is being hosted on **Cloudflare Pages**. that's kinda it, other than:
