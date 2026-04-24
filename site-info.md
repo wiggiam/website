@@ -1,6 +1,6 @@
 # what is this?
 
-hi! since you've pressed "about", or "about this site", you're probably curious about this site in general. so, let me explain:
+hi! since you've pressed "about", or "about the site", you're probably curious about this site in general. so, let me explain:
 
 ## how did I make it?
 

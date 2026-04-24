@@ -29,8 +29,8 @@ features:
     link: https://docs.google.com/spreadsheets/d/1pYJNs5nqpm5NzlPcsFWzqeW06sARKdtoWj4XZcQ2rmM/edit?gid=0#gid=0
 ---
 
-::: info wiggiam says:
-😛
+::: danger wiggiam says:
+*games aren't working because sam needs to renew his site certificate* 👺
 :::
 
 <img src="/background.png" alt="wiggiam" class="bottom-image" />
