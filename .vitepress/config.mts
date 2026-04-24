@@ -21,7 +21,7 @@ export default defineConfig({
         text: 'documents',
         items: [
           { text: 'site info', link: '/site-info' },
-          { text: 'games & more', link: '/spreadsheet-stuff' },
+          { text: 'games & more', link: '/games-and-more' },
           { text: 'maths docs', link: '/maths-docs' },
           { text: 'further maths docs', link: '/further-maths-docs' },
           { text: 'random page', link: '/random' },
