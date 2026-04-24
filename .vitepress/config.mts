@@ -30,7 +30,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: `shhh, don't tell anyone about this 🤫`,
+      message: `shhh, don't tell anyone about this site 🤫`,
       copyright: 'Copyright © 2026 Wiggiam & Company. All rights reserved.'
     }
   }
