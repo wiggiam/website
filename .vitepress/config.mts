@@ -20,7 +20,7 @@ export default defineConfig({
       {
         text: 'Pages',
         items: [
-          { text: 'site info', link: '/about' },
+          { text: 'about', link: '/about' },
           { text: 'games & more', link: '/games' },
           { text: 'Maths', link: '/maths' },
           { text: 'Further Maths', link: '/further-maths' },
