@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: about the site
-      link: /site-info
+      link: /about
     - theme: alt
       text: random button
       link: /random
@@ -20,10 +20,10 @@ hero:
 features:
   - title: Games
     details: play the collective of games from Sam's spreadsheet/IndeX site •o•
-    link: /games-and-more
+    link: /games
   - title: Maths & Further
     details: check out files for A-Level Maths (& Further Maths❗️) •ᴗ•
-    link: /maths-docs
+    link: /maths
   - title: Sam's Spreadsheet
     details: see everything on the original spreadsheet ↗️
     link: https://docs.google.com/spreadsheets/d/1pYJNs5nqpm5NzlPcsFWzqeW06sARKdtoWj4XZcQ2rmM/edit?gid=0#gid=0

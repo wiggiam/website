@@ -11,19 +11,19 @@ export default defineConfig({
 
     nav: [
       { text: 'home', link: '/' },
-      { text: 'games', link: '/games-and-more' },
-      { text: 'docs', link: '/maths-docs' },
-      { text: 'about', link: '/site-info' },
+      { text: 'games', link: '/games' },
+      { text: 'docs', link: '/maths' },
+      { text: 'about', link: '/about' },
     ],
 
     sidebar: [
       {
         text: 'Pages',
         items: [
-          { text: 'site info', link: '/site-info' },
-          { text: 'games & more', link: '/games-and-more' },
-          { text: 'Maths', link: '/maths-docs' },
-          { text: 'Further Maths', link: '/further-maths-docs' },
+          { text: 'site info', link: '/about' },
+          { text: 'games & more', link: '/games' },
+          { text: 'Maths', link: '/maths' },
+          { text: 'Further Maths', link: '/further-maths' },
           { text: 'random', link: '/random' },
         ]
       }
