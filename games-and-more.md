@@ -25,7 +25,7 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
   </div>
 </div>
 
-### future domains:
+### future domains (these don't work *yet*):
 
 <div class="feature-grid">
   <div class="feature-card" onclick="window.location='https://axsetubal.pt'">
