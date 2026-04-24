@@ -30,7 +30,7 @@ features:
 ---
 
 ::: danger wiggiam says:
-*IndeX games aren't working because sam needs to renew his site certificate* 👺
+*IndeX games aren't working because Sam needs to renew his site certificate* 👺
 :::
 
 <img src="/background.png" alt="wiggiam" class="bottom-image" />
