@@ -39,7 +39,7 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
   </div>
 </div>
 
-## games
+## games <br>*(🚨 broken bcs sam needs to renew his site certificate 🚨)*
 
 ### main games:
 
