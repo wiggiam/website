@@ -9,7 +9,7 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
 
 <div class="feature-grid">
   <div class="feature-card" onclick="window.location='https://revision.nx.tc'">
-    <h3>revision.nx.tc</h3>
+    <h3>revision.nx.tc<br>(broken)</h3>
   </div>
   <div class="feature-card" onclick="window.location='https://integration.0x.no'">
     <h3>integration.<span class="mobile-break"><br></span>0x.no</h3>
