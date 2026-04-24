@@ -18,19 +18,19 @@ hero:
       link: /random
 
 features:
-  - title: games
-    details: play the collective of games from sam's spreadsheet •o•
+  - title: Games
+    details: play the collective of games from Sam's spreadsheet/IndeX site •o•
     link: /games-and-more
-  - title: docs
-    details: check out documents for maths (& further maths) •ᴗ•
+  - title: Maths & Further
+    details: check out files for A-Level Maths (& Further Maths❗️) •ᴗ•
     link: /maths-docs
-  - title: sam's spreadsheet
-    details: see everything on the original spreadsheet ✅
+  - title: Sam's Spreadsheet
+    details: see everything on the original spreadsheet ↗️
     link: https://docs.google.com/spreadsheets/d/1pYJNs5nqpm5NzlPcsFWzqeW06sARKdtoWj4XZcQ2rmM/edit?gid=0#gid=0
 ---
 
 ::: danger wiggiam says:
-*games aren't working because sam needs to renew his site certificate* 👺
+*IndeX games aren't working because sam needs to renew his site certificate* 👺
 :::
 
 <img src="/background.png" alt="wiggiam" class="bottom-image" />

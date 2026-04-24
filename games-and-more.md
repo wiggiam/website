@@ -3,9 +3,10 @@ outline: deep
 ---
 
 # games & more
-this is taken directly from sam's spreadsheet, however it won't be updated as often `;(`
+these are taken directly from Sam's spreadsheet/*IndeX* site, however they won't be updated as often as on there `;(`
 
-## spreadsheet games <br>*(🚨 broken bcs sam needs to renew his site certificate 🚨)*
+## *IndeX* games
+***(🚨 broken bcs Sam needs to renew his site certificate 🚨)***
 
 ### main games:
 
@@ -93,6 +94,7 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
 </div>
 
 ## more games:
+(for Internet Archive Software Collection, go to "The Emulation Station")
 
 <div class="feature-grid">
   <div class="feature-card" onclick="window.location='https://archive.org/details/software'">
@@ -100,7 +102,8 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
   </div>
 </div>
 
-## website domains
+## *IndeX* domains
+(domain names for Sam's *IndeX* site)
 
 <div class="feature-grid">
   <div class="feature-card" onclick="window.location='https://revision.nx.tc'">
@@ -120,7 +123,7 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
   </div>
 </div>
 
-### future domains (these don't work *yet*):
+### future *IndeX* domains (these don't work *yet*):
 
 <div class="feature-grid">
   <div class="feature-card" onclick="window.location='https://axsetubal.pt'">

@@ -3,7 +3,7 @@ outline: deep
 ---
 
 # random page
-random text below title + ***bold & italic text***
+random text below title + ***bold & italic text*** (this page is for testing text formatting)
 
 ## random heading
 
@@ -38,7 +38,5 @@ random **dangerous** warning
 :::
 
 ::: details
-random details block
+random details box
 :::
-
-(this page is for testing text formatting)

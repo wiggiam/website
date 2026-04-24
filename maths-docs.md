@@ -2,8 +2,8 @@
 outline: deep
 ---
 
-# maths documents
-everything from HMWK booklet answers, to every textbook pdf.
+# Maths documents
+everything from HMWK booklet answers, to every A-Level textbook pdf.
 
 ## textbooks
 

@@ -18,13 +18,13 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'documents',
+        text: 'Pages',
         items: [
           { text: 'site info', link: '/site-info' },
           { text: 'games & more', link: '/games-and-more' },
-          { text: 'maths docs', link: '/maths-docs' },
-          { text: 'further maths docs', link: '/further-maths-docs' },
-          { text: 'random page', link: '/random' },
+          { text: 'Maths', link: '/maths-docs' },
+          { text: 'Further Maths', link: '/further-maths-docs' },
+          { text: 'random', link: '/random' },
         ]
       }
     ],

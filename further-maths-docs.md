@@ -2,8 +2,8 @@
 outline: deep
 ---
 
-# further maths documents
-every textbook pdf & every HMWK *digital* document.
+# Further Maths documents
+every A-Level textbook pdf & every HMWK *digital* document.
 
 ## textbooks
 
