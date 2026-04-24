@@ -18,13 +18,13 @@ hero:
       link: /random
 
 features:
-  - title: Games
+  - title: games
     details: play the collective of games from Sam's spreadsheet/IndeX site •o•
     link: /games
   - title: Maths & Further
     details: check out files for A-Level Maths (& Further Maths❗️) •ᴗ•
     link: /maths
-  - title: Sam's Spreadsheet
+  - title: Sam's spreadsheet
     details: see everything on the original spreadsheet ↗️
     link: https://docs.google.com/spreadsheets/d/1pYJNs5nqpm5NzlPcsFWzqeW06sARKdtoWj4XZcQ2rmM/edit?gid=0#gid=0
 ---
