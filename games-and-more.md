@@ -5,41 +5,7 @@ outline: deep
 # games & more
 this is taken directly from sam's spreadsheet, however it won't be updated as often `;(`
 
-## website domains
-
-<div class="feature-grid">
-  <div class="feature-card" onclick="window.location='https://revision.nx.tc'">
-    <h3>revision.nx.tc<br>(broken)</h3>
-  </div>
-  <div class="feature-card" onclick="window.location='https://integration.0x.no'">
-    <h3>integration.<span class="mobile-break"><br></span>0x.no</h3>
-  </div>
-  <div class="feature-card" onclick="window.location='https://maths.nya.pub'">
-    <h3>maths.nya.pub</h3>
-  </div>
-  <div class="feature-card" onclick="window.location='https://shakespeare.justlearning.net'">
-    <h3>shakespeare.<br>justlearning.net</h3>
-  </div>
-  <div class="feature-card" onclick="window.location='https://matrix.root.sx'">
-    <h3>matrix.root.sx<br>(backup)</h3>
-  </div>
-</div>
-
-### future domains (these don't work *yet*):
-
-<div class="feature-grid">
-  <div class="feature-card" onclick="window.location='https://axsetubal.pt'">
-    <h3>axsetubal.pt</h3>
-  </div>
-  <div class="feature-card" onclick="window.location='https://barabesta.is'">
-    <h3>barabesta.is</h3>
-  </div>
-  <div class="feature-card" onclick="window.location='https://mcsoft.org'">
-    <h3>mcsoft.org</h3>
-  </div>
-</div>
-
-## games <br>*(🚨 broken bcs sam needs to renew his site certificate 🚨)*
+## spreadsheet games <br>*(🚨 broken bcs sam needs to renew his site certificate 🚨)*
 
 ### main games:
 
@@ -123,6 +89,48 @@ this is taken directly from sam's spreadsheet, however it won't be updated as of
   </div>
   <div class="feature-card" onclick="window.location='https://maths.nya.pub/Games/SubwaySurfers'">
     <h3>Subway <span class="mobile-break"><br></span>Surfers</h3>
+  </div>
+</div>
+
+## more games:
+
+<div class="feature-grid">
+  <div class="feature-card" onclick="window.location='https://archive.org/details/software'">
+    <h3>Internet Archive <span class="desktop-break"><br></span>Software <span class="mobile-break"><br></span>Collection</h3>
+  </div>
+</div>
+
+## website domains
+
+<div class="feature-grid">
+  <div class="feature-card" onclick="window.location='https://revision.nx.tc'">
+    <h3>revision.nx.tc<br>(broken)</h3>
+  </div>
+  <div class="feature-card" onclick="window.location='https://integration.0x.no'">
+    <h3>integration.<span class="mobile-break"><br></span>0x.no</h3>
+  </div>
+  <div class="feature-card" onclick="window.location='https://maths.nya.pub'">
+    <h3>maths.nya.pub</h3>
+  </div>
+  <div class="feature-card" onclick="window.location='https://shakespeare.justlearning.net'">
+    <h3>shakespeare.<br>justlearning.net</h3>
+  </div>
+  <div class="feature-card" onclick="window.location='https://matrix.root.sx'">
+    <h3>matrix.root.sx<br>(backup)</h3>
+  </div>
+</div>
+
+### future domains (these don't work *yet*):
+
+<div class="feature-grid">
+  <div class="feature-card" onclick="window.location='https://axsetubal.pt'">
+    <h3>axsetubal.pt</h3>
+  </div>
+  <div class="feature-card" onclick="window.location='https://barabesta.is'">
+    <h3>barabesta.is</h3>
+  </div>
+  <div class="feature-card" onclick="window.location='https://mcsoft.org'">
+    <h3>mcsoft.org</h3>
   </div>
 </div>
 
